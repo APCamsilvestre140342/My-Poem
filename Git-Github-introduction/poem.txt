@@ -2,3 +2,6 @@ Roses are red,
 Violets are blue,
 I'm learning Git,
 And you can too.
+
+Every change I save,
+Is a snapshot in time.
