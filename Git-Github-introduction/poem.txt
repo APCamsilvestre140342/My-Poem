@@ -5,3 +5,4 @@ And so will you
 
 Every change I save,
 Is a snapshot in time.
+A branch keeps main safe.
