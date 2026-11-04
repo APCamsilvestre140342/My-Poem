@@ -1,0 +1,4 @@
+Roses are red,
+Violets are blue,
+I'm learning Git,
+And you can too.
