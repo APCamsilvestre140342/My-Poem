@@ -3,6 +3,7 @@ Violets are blue,
 I'm learning Git,
 And so will you
 
+Today is Good Day.
 Every change I save,
 Is a snapshot in time.
 A branch keeps main safe.
